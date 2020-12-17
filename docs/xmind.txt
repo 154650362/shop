@@ -1,0 +1,16 @@
+shop
+
+代码架构
+main
+view  static
+      index.html
+router
+controller
+dao
+model
+sql
+util
+db
+docs- xmid.txt
+video-001.Go-web开发-商城实战架构搭建
+     -
